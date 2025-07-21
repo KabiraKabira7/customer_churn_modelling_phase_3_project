@@ -63,3 +63,14 @@ Use feature importance and visual explanations to help stakeholders understand a
 + ROC Curve – visualizes trade-off between TPR and FPR.
 
 + (Optional) SHAP/ELI5 explanations – (insert if added later).
+
+## Key Insights
++ Top predictors: tenure, MonthlyCharges, Contract, InternetService, and PaymentMethod were the most influential in predicting customer churn, with tenure being the strongest.
+
++ SMOTE significantly improved recall (0.84), enhancing the model’s ability to detect customers likely to churn.
+
++ Feature Importance Plot highlighted key churn drivers, enabling targeted retention strategies. Incorporating SHAP values is recommended for deeper interpretability and fairness assessment.
+
++ Confusion Matrix confirmed reliable prediction distribution, supporting automation of churn risk detection.
+
++ ROC Curve demonstrated strong model performance, with Random Forest achieving an AUC of 0.943, outperforming baseline models like Logistic Regression.
