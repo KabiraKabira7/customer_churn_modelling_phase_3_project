@@ -76,7 +76,7 @@ Use feature importance and visual explanations to help stakeholders understand a
 + ROC Curve demonstrated strong model performance, with Random Forest achieving an AUC of 0.943, outperforming baseline models like Logistic Regression.
 
 ## Conclusion
-## Conclusion
+
 ###  1.Improved Churn Prediction Accuracy
 The optimized Random Forest model effectively captures customer behavior patterns, leveraging features like customer service calls, international plan, and usage metrics for accurate churn prediction.
 
