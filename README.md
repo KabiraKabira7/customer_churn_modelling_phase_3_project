@@ -24,7 +24,7 @@ Integrate the model into customer relationship management (CRM) systems for real
 Use feature importance and visual explanations to help stakeholders understand and trust model outputs.
 
 ## Key Features
-* Dataset: ~7,040 rows with features such as tenure, MonthlyCharges, Contract, PaymentMethod, InternetService, and Churn.
+* Dataset: ~3333 rows with features such as tenure, MonthlyCharges, Contract, PaymentMethod, InternetService, and Churn.
 
 * Preprocessing:
 
